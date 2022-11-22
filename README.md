@@ -10,6 +10,7 @@ This is an employee directory with the ability to view all employees in a table 
 * View All Employees in table sorted by employee number in ascending order
 
 ## Preview
+https://user-images.githubusercontent.com/55485606/203369069-f69c9982-3c10-4298-8fa4-cc9ad44692e0.mp4
 
 ## Built With
 * VueJS (https://vuejs.org/)
